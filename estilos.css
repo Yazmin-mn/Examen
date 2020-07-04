@@ -1,0 +1,42 @@
+body {
+    background: #D343C8;
+
+    font-size: Arial;
+    padding: 4;
+}
+
+table {
+    font-size: 22px;
+    color: #41209c;
+    position: relative;
+    top: 100px;
+}
+
+
+}
+
+.mi {
+	background: #898989;
+	color: white;
+	padding: 8px;
+	border-radius: 90px;
+	border:2px solid #7E0F76;
+text-align: center;
+position: relative;
+width: 60%;
+left: 200px;
+	}
+
+	.contenedor {
+		background: #B3B3B3;
+	color: white;
+	padding: 8px;
+	border-radius: 90px;
+	border:2px solid #7E0F76;
+text-align: center;
+position: relative;
+width: 800px;
+height: 600px;
+left: 200px;
+
+	}
